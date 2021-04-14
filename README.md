@@ -1,4 +1,3 @@
-# gvrp-phone
 GVRP Phone with SQL
 -----------------------------
 Leaked by artaxyz#0001
